@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 00001,
+    "Titulo": "Como fazer sentido e bater o martelo",
+    "Autor": "Alexandro Aolchique",
+    "Ano": 2017,
+    "Status": true,
+    "Emprestado": ""
+  },
+  {
+    "Id": 00002,
+    "Titulo": "Sejamos todos feministas",
+    "Autor": "Chimamanda Ngozi Adichie",
+    "Ano": 2015,
+    "Status": true,
+    "Emprestado": ""
+  },
+  {
+    "Id": 00003,
+    "Titulo": "Basquete 101",
+    "Autor": "Hortencia Marcari",
+    "Ano": 2010,
+    "Status": true,
+    "Emprestado": ""
+  }
+]
